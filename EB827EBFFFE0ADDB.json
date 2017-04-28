@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "EB827EBFFFE0ADDB",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 45.8997,
+    "ref_longitude": 13.8779,
+    "ref_altitude": 11,
+    "contact_email": "peter.krkoc@gmail.com",
+    "description": "Lokavec"
+  }
+}
